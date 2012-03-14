@@ -1,0 +1,6 @@
+plugin.description: Applies the logged in username to the torrent label; disables modification of labels
+plugin.author: Kyle
+plugin.runlevel: 0.1
+plugin.version: 1.0
+rtorrent.version: 0.8.6
+plugin.help: 
