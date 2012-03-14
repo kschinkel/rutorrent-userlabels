@@ -1,0 +1,7 @@
+div#webuiLogout.logout{
+	background: transparent url(./images/logout.png) no-repeat;
+}
+
+div#webuiChangepwd.changepwd{
+	background: transparent url(./images/changepwd.png) no-repeat;
+}
